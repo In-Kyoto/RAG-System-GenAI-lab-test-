@@ -1,1 +1,1 @@
-# RAG-System-GenAI-lab-test-
+# RAG-System-GenAI-lab-test
